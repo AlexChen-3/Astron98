@@ -1,0 +1,22 @@
+Name: Alex Chen
+Student ID: 3038582757
+
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+- ls --> list files in current directory
+- cd --> change directory
+- mkdir --> make directory
+- rm --> remove
+- pwd --> print working directory's full path
+Computer terminal is in Bash
+
+2. Do you have pets? What kind?
+No
+
+3. If you run across an error, what would your first course of action be?
+Look at where the error is occurring and debug from there
+
+4. Funniest thing that happened to you in high school.
+I fell on my face getting out of the blocks in track
+
+5. What is a python script? (Keep it simple)
+A set of instructions for python to carry out
